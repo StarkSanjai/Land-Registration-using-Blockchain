@@ -1,6 +1,6 @@
-#Land Registration using Blockchain  
+# Land Registration using Blockchain  
 
-#Tech Stack & Tools
+## Tech Stack & Tools
 ```
 * Flask
 * MongoDB
@@ -11,7 +11,7 @@
 * Metamask
 ```
 
-#Installation
+# Installation
 
 1. Clone the repository:
     ```
